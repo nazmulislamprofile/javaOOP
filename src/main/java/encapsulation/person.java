@@ -20,9 +20,5 @@ public class person {
     
     public int getAge(){
         return age;
-    }
-    
-    
-    
-    
+    }    
 }
