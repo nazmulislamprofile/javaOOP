@@ -12,6 +12,4 @@ public class student {
        System.out.println("student number =" +count); 
     }
     
-    
-    
 }
