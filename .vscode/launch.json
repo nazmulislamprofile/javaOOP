@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "atmMachine",
+            "request": "launch",
+            "mainClass": "atm.atmMachine",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "constructoroverloading.test",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
             "name": "test",
             "request": "launch",
             "mainClass": "test",
