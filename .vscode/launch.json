@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "copying_array",
+            "request": "launch",
+            "mainClass": "array.copying_array",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "multi_dimentional_array",
+            "request": "launch",
+            "mainClass": "array.multi_dimentional_array",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "Two_dimentional_array",
+            "request": "launch",
+            "mainClass": "array.Two_dimentional_array",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "one_dimentional_array",
+            "request": "launch",
+            "mainClass": "array.one_dimentional_array",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array.array",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "practice.array",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
             "name": "atmMachine",
             "request": "launch",
             "mainClass": "atm.atmMachine",

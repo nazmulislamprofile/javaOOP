@@ -84,8 +84,4 @@ public class atm {
         System.out.println("Thanks, money deposit successfull");
         menu();
     }
-
-
-
-
 }
