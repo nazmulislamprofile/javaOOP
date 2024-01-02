@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "primeNumberUsingMethod",
+            "request": "launch",
+            "mainClass": "Progrm_primeNumber.primeNumberUsingMethod",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "PrimeExample",
+            "request": "launch",
+            "mainClass": "Progrm_primeNumber.PrimeExample",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
             "name": "PrimeNumberOne",
             "request": "launch",
             "mainClass": "Progrm_primeNumber.PrimeNumberOne",
