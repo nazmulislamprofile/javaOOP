@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "recursion",
+            "request": "launch",
+            "mainClass": "Progrm_fibonacci_series.recursion",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci_simple",
+            "request": "launch",
+            "mainClass": "fibonacci_series.fibonacci_simple",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
             "name": "copying_array",
             "request": "launch",
             "mainClass": "array.copying_array",
