@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimeNumberOne",
+            "request": "launch",
+            "mainClass": "Progrm_primeNumber.PrimeNumberOne",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
             "name": "recursion",
             "request": "launch",
             "mainClass": "Progrm_fibonacci_series.recursion",
