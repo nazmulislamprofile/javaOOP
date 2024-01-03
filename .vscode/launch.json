@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PalindromeNumberString",
+            "request": "launch",
+            "mainClass": "Program_palindrome_number.PalindromeNumberString",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
             "name": "PalindromeNumberByMethod",
             "request": "launch",
             "mainClass": "Program_palindrome_number.PalindromeNumberByMethod",
