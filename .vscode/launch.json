@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "primeNumberBetween",
+            "request": "launch",
+            "mainClass": "Progrm_primeNumber.primeNumberBetween",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "primeNumberInputFromUser",
+            "request": "launch",
+            "mainClass": "Progrm_primeNumber.primeNumberInputFromUser",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
             "name": "primeNumberUsingMethod",
             "request": "launch",
             "mainClass": "Progrm_primeNumber.primeNumberUsingMethod",
