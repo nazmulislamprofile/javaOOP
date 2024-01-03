@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PalindromeNumberByMethod",
+            "request": "launch",
+            "mainClass": "Program_palindrome_number.PalindromeNumberByMethod",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "palindromeNumber",
+            "request": "launch",
+            "mainClass": "Program_palindrome_number.palindromeNumber",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
             "name": "primeNumberBetween",
             "request": "launch",
             "mainClass": "Progrm_primeNumber.primeNumberBetween",
