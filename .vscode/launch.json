@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "armstrongNumber",
+            "request": "launch",
+            "mainClass": "Program_Armstrong_number.armstrongNumber",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
             "name": "recursion_factorial",
             "request": "launch",
             "mainClass": "Program_factorial.recursion_factorial",
