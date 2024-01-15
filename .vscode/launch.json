@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "polymorphism.Polymorphism_practice.test",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "testPolymorphism",
+            "request": "launch",
+            "mainClass": "polymorphism.Polymorphism_practice.testPolymorphism",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "Emp",
+            "request": "launch",
+            "mainClass": "aggregiation.Emp",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "Pyramid_star_pattern",
+            "request": "launch",
+            "mainClass": "Program_pattern.Pyramid_star_pattern",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "Left_triangle_star_pattern",
+            "request": "launch",
+            "mainClass": "Program_pattern.Left_triangle_star_pattern",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "Right_triangle_start_pattern",
+            "request": "launch",
+            "mainClass": "Program_pattern.Right_triangle_start_pattern",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "randomNumberClass",
+            "request": "launch",
+            "mainClass": "Generate_random_number.randomNumberClass",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "randomNumber",
+            "request": "launch",
+            "mainClass": "Generate_random_number.randomNumber",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
             "name": "armstrongNumber",
             "request": "launch",
             "mainClass": "Program_Armstrong_number.armstrongNumber",
