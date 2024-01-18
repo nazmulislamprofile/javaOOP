@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Mirrored_Right_Triangle_Star_Pattern",
+            "request": "launch",
+            "mainClass": "Program_pattern.Mirrored_Right_Triangle_Star_Pattern",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
             "name": "Downward_triangle_star_pattern",
             "request": "launch",
             "mainClass": "Program_pattern.Downward_triangle_star_pattern",
