@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Downward_triangle_star_pattern",
+            "request": "launch",
+            "mainClass": "Program_pattern.Downward_triangle_star_pattern",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
             "name": "AWTExample1",
             "request": "launch",
             "mainClass": "Java_AWT.AWTExample1",
