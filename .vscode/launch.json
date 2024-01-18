@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AWTExample1",
+            "request": "launch",
+            "mainClass": "Java_AWT.AWTExample1",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "Diamondshap_pattern",
+            "request": "launch",
+            "mainClass": "Program_pattern.Diamondshap_pattern",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
             "name": "test",
             "request": "launch",
             "mainClass": "polymorphism.Polymorphism_practice.test",
