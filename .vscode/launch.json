@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AbstractBank",
+            "request": "launch",
+            "mainClass": "Abstract.AbstractBank",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "Abstract.test",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "testMain",
+            "request": "launch",
+            "mainClass": "Abstract.testMain",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
             "name": "ReversePyramidPattern",
             "request": "launch",
             "mainClass": "Program_pattern.ReversePyramidPattern",
