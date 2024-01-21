@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseNumberForLoop",
+            "request": "launch",
+            "mainClass": "Program_reverse_number.ReverseNumberForLoop",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumberExample1",
+            "request": "launch",
+            "mainClass": "Program_reverse_number.ReverseNumberExample1",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
             "name": "HashCodeExample",
             "request": "launch",
             "mainClass": "compareTwoObject.HashCodeExample",
