@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HashCodeExample",
+            "request": "launch",
+            "mainClass": "compareTwoObject.HashCodeExample",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "ObjectComparisonExample",
+            "request": "launch",
+            "mainClass": "compareTwoObject.ObjectComparisonExample",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "javaExceptionExample",
+            "request": "launch",
+            "mainClass": "Exception_handling.javaExceptionExample",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
             "name": "AbstractBank",
             "request": "launch",
             "mainClass": "Abstract.AbstractBank",
