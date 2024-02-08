@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseNumberRecursion",
+            "request": "launch",
+            "mainClass": "Program_reverse_number.ReverseNumberRecursion",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
             "name": "ReverseNumberForLoop",
             "request": "launch",
             "mainClass": "Program_reverse_number.ReverseNumberForLoop",
