@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestCustomException1",
+            "request": "launch",
+            "mainClass": "Exception_handling.TestCustomException1",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci_simple",
+            "request": "launch",
+            "mainClass": "Progrm_fibonacci_series.fibonacci_simple",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
             "name": "ReverseNumberRecursion",
             "request": "launch",
             "mainClass": "Program_reverse_number.ReverseNumberRecursion",
