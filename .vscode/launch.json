@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestMemberOuter1",
+            "request": "launch",
+            "mainClass": "javaInnerClass.TestMemberOuter1",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
             "name": "TestCustomException1",
             "request": "launch",
             "mainClass": "Exception_handling.TestCustomException1",
