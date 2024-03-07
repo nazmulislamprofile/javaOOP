@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayListExample",
+            "request": "launch",
+            "mainClass": "JavarArrayListExample.ArrayListExample",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "OrderManagementSystem",
+            "request": "launch",
+            "mainClass": "orderManagement.OrderManagementSystem",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "FileOutputStreamExample",
+            "request": "launch",
+            "mainClass": "Java_IO.FileOutputStreamExample",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
             "name": "TestMemberOuter1",
             "request": "launch",
             "mainClass": "javaInnerClass.TestMemberOuter1",
