@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "vartualDemo",
+            "request": "launch",
+            "mainClass": "OOP.runtimePolymerphism.vartualDemo",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "methodOveriding.main",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListExample1",
+            "request": "launch",
+            "mainClass": "CollectionFramwork.ArrayListExample1",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
             "name": "ArrayListExample",
             "request": "launch",
             "mainClass": "JavarArrayListExample.ArrayListExample",
