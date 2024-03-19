@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "aggregiation.main",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
             "name": "vartualDemo",
             "request": "launch",
             "mainClass": "OOP.runtimePolymerphism.vartualDemo",
