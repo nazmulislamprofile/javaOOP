@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "tester",
+            "request": "launch",
+            "mainClass": "static_class.tester",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "outer",
+            "request": "launch",
+            "mainClass": "static_class.outer",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "outer",
+            "request": "launch",
+            "mainClass": "javaInnerClass.outer",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "My_class",
+            "request": "launch",
+            "mainClass": "javaInnerClass.My_class",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
             "name": "main",
             "request": "launch",
             "mainClass": "aggregiation.main",

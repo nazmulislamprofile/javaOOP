@@ -1,7 +1,7 @@
 package javaInnerClass;
 
 public class TestMemberOuter1 {
-    private int data=30;
+    private int data=30;    
     class inner{
         void msg(){
             System.out.println("inner claas"+data);
