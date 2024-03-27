@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "testArray",
+            "request": "launch",
+            "mainClass": "array.testArray",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "tester",
+            "request": "launch",
+            "mainClass": "singeltonClass.tester",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "AnonymousInnerClassAsAnUrgument",
+            "request": "launch",
+            "mainClass": "AnonymousClass.AnonymousInnerClassAsAnUrgument",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
+            "name": "AnonymousInnerClassObject",
+            "request": "launch",
+            "mainClass": "AnonymousClass.AnonymousInnerClassObject",
+            "projectName": "OOP"
+        },
+        {
+            "type": "java",
             "name": "tester",
             "request": "launch",
             "mainClass": "static_class.tester",
