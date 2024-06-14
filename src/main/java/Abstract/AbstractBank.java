@@ -4,7 +4,7 @@ abstract class bank{
     abstract int rateOfInterest();
 }
 
-class IBL extends bank{
+class IBL extends bank{ 
     int rateOfInterest(){
         return 7;
     }
@@ -33,4 +33,3 @@ public class AbstractBank {
         System.out.println(obj3.rateOfInterest());
       
     }
-}
