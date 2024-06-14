@@ -31,5 +31,5 @@ public class AbstractBank {
         System.out.println(obj1.rateOfInterest());
         System.out.println(obj2.rateOfInterest());
         System.out.println(obj3.rateOfInterest());
-      
+    }
     }
